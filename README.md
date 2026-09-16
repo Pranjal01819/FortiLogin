@@ -147,22 +147,6 @@ By default `test.py` targets the **deployed** unsecured demo (`TARGET_URL`). Cha
  
 ---
  
-## 🧰 Tech Stack
- 
-<div align="center">
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
- 
-</div>
-- **Backend:** Python, Flask
-- **Attack tooling:** Python `requests`
-- **Deployment:** Render (Gunicorn)
-- **Security controls:** custom rate limiting, CAPTCHA tokens, regex-based input filtering, secure session/cookie configuration
-
----
- 
 ## ⚠️ Ethical Use Disclaimer
  
 This repository is for **educational and authorized security-testing purposes only**. Both target applications use hardcoded demo credentials and are intended to be attacked only in this controlled lab context. Do not point the attack script at any system you do not own or have explicit written permission to test — unauthorized access attempts are illegal in most jurisdictions.
