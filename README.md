@@ -114,18 +114,6 @@ Default demo credentials (both apps): `admin` / `cyber123`
 
 ---
 
-## 👥 Team
-
-**Defensive Team**
-Dev Shukla · Abhiraj Singh Chauhan · Ram Shankar Singh · Utkarsh Sharma · Pradyumn Singh
-
-**Offensive Team**
-Saurabh Kumar Singh · Divyansh · Guruvendra Singh · Nitin Kumar · Pranjal Jain
-
-*(Full roll numbers are listed in `Teams.txt`.)*
-
----
-
 ## ⚠️ Ethical Use Disclaimer
 
 This repository is for **educational and authorized security-testing purposes only**. Both target applications use hardcoded demo credentials and are intended to be attacked only in this controlled lab context. Do not point the attack script at any system you do not own or have explicit written permission to test — unauthorized access attempts are illegal in most jurisdictions.
